@@ -4,6 +4,7 @@ title: "PD"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: false
+theme: "just-the-docs"
 
 github:
   is_project_page: false
