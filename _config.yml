@@ -3,6 +3,6 @@ theme: jekyll-theme-dinky
 defaults:
   - 
     scope:
-      path: "README.md"
+      path: "01_matplotlib.md"
     values:
-      permalink: "README.html"
+      permalink: "01_matplotlib.html"
