@@ -19,7 +19,7 @@ plt.show()
 
 ```
 <p align="center">
-  <img src="01_matplotlib/output_2_0.png" width="228" height="384" title="plain_subplots">
+  <img src="01_matplotlib/output_2_0.png" width="228" height="584" title="plain_subplots">
 </p>
 
 
