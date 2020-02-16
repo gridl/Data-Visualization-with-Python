@@ -1,8 +1,9 @@
+
 ---
 layout: default
-title: bla
-parent: docs
-nav_order: 2
+title: Pippo
+parent: pippo
+nav_order: 3
 ---
 
 ## Data Visualization with Python

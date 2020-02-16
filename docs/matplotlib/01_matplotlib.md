@@ -1,8 +1,8 @@
 ---
 layout: default
-title: bla
-parent: docs
-nav_order: 2
+title: Basic
+parent: matplotlib
+nav_order: 3
 ---
 
 ## Data Visualization with Python
