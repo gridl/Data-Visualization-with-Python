@@ -20,7 +20,7 @@ plt.show()
 ```
 
 
-![png](output_2_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_2_0.png)
 
 
 Let's play a little bit with some data. Adding data to a figure is done by calling methods of the axes object.
@@ -42,7 +42,7 @@ plt.show()
 ```
 
 
-![png](output_4_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_4_0.png)
 
 
 Let's customize our plot by adding $\text{x_label}$ and $\text{y_label}$, as well as the title.
