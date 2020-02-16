@@ -12,5 +12,8 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+
 #github:
 #  is_project_page: false
