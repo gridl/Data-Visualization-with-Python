@@ -137,7 +137,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_12_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_13_0.png)
 
 
 
