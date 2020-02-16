@@ -1,8 +1,2 @@
-theme: jekyll-theme-dinky
-
-defaults:
-  - 
-    scope:
-      path: "01_matplotlib.md"
-    values:
-      permalink: "01_matplotlib.html"
+# theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
