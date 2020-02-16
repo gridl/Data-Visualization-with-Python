@@ -18,7 +18,7 @@ fig, ax = plt.subplots()
 plt.show()
 
 ```
-![png](01_matplotlib/output_2_0.png =150x100)
+![png](01_matplotlib/output_2_0.png)
 
 
 Let's play a little bit with some data. Adding data to a figure is done by calling methods of the axes object.
