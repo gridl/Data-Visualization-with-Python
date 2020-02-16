@@ -18,7 +18,7 @@ fig, ax = plt.subplots()
 plt.show()
 
 ```
-<img src="01_matplotlib/output_2_0.png" alt="Image not found" width="600"/ title="Basic">
+<img src="01_matplotlib/output_2_0.png" alt="Image not found" width="600"/>
 
 
 Let's play a little bit with some data. Adding data to a figure is done by calling methods of the axes object.
@@ -40,7 +40,7 @@ plt.show()
 ```
 
 
-<img src="01_matplotlib/output_4_0.png" alt="Image not found" width="600"/ title="FirstPlot">
+<img src="01_matplotlib/output_4_0.png" title="FirstPlot" alt="Image not found" width="600"/>
 
 
 Let's customize our plot by adding $\text{x_label}$ and $\text{y_label}$, as well as the title.
