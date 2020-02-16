@@ -40,7 +40,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_4_0.png)
+![png2](01_matplotlib/output_4_0.png)
 
 
 Let's customize our plot by adding $\text{x_label}$ and $\text{y_label}$, as well as the title.
