@@ -1,11 +1,3 @@
----
-title: Intro to Matplotlib
-parent: Test
-has_children: true
-nav_order: 1
----
-
-
 # Data Visualization with Python
 ### Instructor: Andrea Giussani (andrea.giussani@unibocconi.it)
 
@@ -146,3 +138,7 @@ plt.show()
 ![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_13_0.png)
 
 
+
+```python
+
+```
