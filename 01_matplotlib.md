@@ -58,7 +58,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_6_0.png)
 
 
 ### Aesthetics
@@ -85,7 +85,7 @@ plt.show()
 ```
 
 
-![png](output_8_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_8_0.png)
 
 
 ### Add multiple serieses in the same plot
@@ -104,7 +104,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_10_0.png)
 
 
 ## Assignment (in class)
@@ -124,7 +124,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_12_0.png)
 
 
 
@@ -137,7 +137,7 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_12_0.png)
 
 
 
