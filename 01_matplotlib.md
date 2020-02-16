@@ -19,8 +19,7 @@ plt.show()
 
 ```
 
-
-![png](https://github.com/andreagiussani/Data-Visualization-with-Python/blob/master/01_matplotlib/output_2_0.png)
+<img src="../01_matplotlib/output_2_0.png" height="100"/>
 
 
 Let's play a little bit with some data. Adding data to a figure is done by calling methods of the axes object.
