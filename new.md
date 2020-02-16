@@ -1,8 +1,10 @@
 ---
-title: bla
+title: Intro to Matplotlib
+parent: Test
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
+
 
 # Data Visualization with Python
 ### Instructor: Andrea Giussani (andrea.giussani@unibocconi.it)
